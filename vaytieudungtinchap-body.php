@@ -27,27 +27,27 @@
                                         hình thức thế chấp&nbsp;chỉ áp dụng với các khoản vay vừa và nhỏ.</p>
                                     <ul>
                                         <li class="entry-title">
-                                            <a href="vay-tin-chap-theo-luong-chuyen-khoan.html">Vay tín chấp theo lương chuyển khoản</a>
+                                            <a href="vay-tin-chap-theo-luong-chuyen-khoan.php">Vay tín chấp theo lương chuyển khoản</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.html">Vay tiêu dùng tín chấp theo lương tiền mặt</a>
+                                            <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.php">Vay tiêu dùng tín chấp theo lương tiền mặt</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="vay-theo-hoa-don-tien-dien.html">Vay tiêu dùng theo hoá đơn điện, nước, internet</a>
+                                            <a href="vay-theo-hoa-don-tien-dien.php">Vay tiêu dùng theo hoá đơn điện, nước, internet</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="hop-dong-tin-dung-cu.html">Vay theo hợp đồng tín chấp tín dụng cũ</a>
+                                            <a href="hop-dong-tin-dung-cu.php">Vay theo hợp đồng tín chấp tín dụng cũ</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="vay-theo-bao-hiem-nhan-tho.html">Vay tín chấp theo bảo hiểm nhân thọ&nbsp;</a>
+                                            <a href="vay-theo-bao-hiem-nhan-tho.php">Vay tín chấp theo bảo hiểm nhân thọ&nbsp;</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="vay-theo-bao-hiem-y-te.html">Vay Theo Bảo Hiểm Y Tế</a>
+                                            <a href="vay-theo-bao-hiem-y-te.php">Vay Theo Bảo Hiểm Y Tế</a>
                                         </li>
                                         <li class="entry-title">
-                                            <a href="vay-theo-bao-hiem-y-te.html">Vay tiêu dùng tín chấp theo Cavet xe</a>
+                                            <a href="vay-theo-bao-hiem-y-te.php">Vay tiêu dùng tín chấp theo Cavet xe</a>
                                         </li>
                                     </ul>
-                                    <p>Hotline: 0763633331</p>
+                                    <p>Hotline: <?php echo " $sdt_display";?></p>
                                 </div>
                             </section>

@@ -34,7 +34,7 @@
     <link rel="stylesheet" id="pt-magazine-style-css" href="css/style.css" type="text/css" media="all">
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/jquery-migrate.min.js"></script>
-    <link rel="https://api.w.org/" href="download.json">
+    <!--<link rel="https://api.w.org/" href="download.json">-->
     <meta name="generator" content="WordPress 4.9.9">
 
 

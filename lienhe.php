@@ -7,16 +7,14 @@
     <div id="page" class="site">
         <?php include 'menu.php';?>
         <div id="content" class="site-content">
-            <?php include 'slider.php';?>
             <div class="container">
                 <div class="inner-wrapper">
                     <div id="primary" class="content-area">
                         <main id="main" class="site-main" role="main">
-                            <?php include 'vaytieudungtinchap-body.php';?>
+                            <?php include 'lienhe-body.php';?>
                             <?php include 'sanpham.php';?>
                         </main>
                     </div>
-                    <?php include 'dangky-right.php';?>
                 </div>
             </div>
         </div>
