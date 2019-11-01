@@ -7,56 +7,56 @@
                                     <div class="owl-carousel owl-theme">
                                         <div>
                                             <div class="news-thumb">
-                                                <a href="hop-dong-tin-dung-cu.html">
+                                                <a href="hop-dong-tin-dung-cu.php">
                                                     <img src="img/vay-tin-chap-theo-hop-dong-tin-dung-cu.jpg" data-pagespeed-url-hash="1512400863"
                                                         >
                                                 </a>
                                             </div>
                                             <div class="news-text-wrap">
                                                 <h2>
-                                                    <a href="hop-dong-tin-dung-cu.html">Cho vay theo hợp đồng tín chấp tín dụng cũ</a>
+                                                    <a href="hop-dong-tin-dung-cu.php">Cho vay theo hợp đồng tín chấp tín dụng cũ</a>
                                                 </h2>
                                                 <span class="posted-date">14 Tháng Năm, 2019</span>
                                             </div>
                                         </div>
                                         <div>
                                             <div class="news-thumb">
-                                                <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.html">
+                                                <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.php">
                                                     <img src="img/vay-tin-chap-theo-luong-tien-mat.jpg" data-pagespeed-url-hash="994608134"
                                                         >
                                                 </a>
                                             </div>
                                             <div class="news-text-wrap">
                                                 <h2>
-                                                    <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.html">Vay tiêu dùng tín chấp theo lương tiền mặt</a>
+                                                    <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.php">Vay tiêu dùng tín chấp theo lương tiền mặt</a>
                                                 </h2>
                                                 <span class="posted-date">14 Tháng Năm, 2019</span>
                                             </div>
                                         </div>
                                         <div>
                                             <div class="news-thumb">
-                                                <a href="vay-tin-chap-theo-luong-chuyen-khoan.html">
+                                                <a href="vay-tin-chap-theo-luong-chuyen-khoan.php">
                                                     <img src="img/xvay-theo-bang-luong-khong-can-the-chap.jpg.pagespeed.ic_.jpg"
                                                         data-pagespeed-url-hash="827633242" >
                                                 </a>
                                             </div>
                                             <div class="news-text-wrap">
                                                 <h2>
-                                                    <a href="vay-tin-chap-theo-luong-chuyen-khoan.html">Vay tín chấp theo lương chuyển khoản</a>
+                                                    <a href="vay-tin-chap-theo-luong-chuyen-khoan.php">Vay tín chấp theo lương chuyển khoản</a>
                                                 </h2>
                                                 <span class="posted-date">14 Tháng Năm, 2019</span>
                                             </div>
                                         </div>
                                         <div>
                                             <div class="news-thumb">
-                                                <a href="vay-theo-hoa-don-tien-dien.html">
+                                                <a href="vay-theo-hoa-don-tien-dien.php">
                                                     <img src="img/vay-tin-chap-theo-hoa-don-dien-nuoc.jpg" data-pagespeed-url-hash="2387870480"
                                                         >
                                                 </a>
                                             </div>
                                             <div class="news-text-wrap">
                                                 <h2>
-                                                    <a href="vay-theo-hoa-don-tien-dien.html">Vay tiêu dùng theo hoá đơn điện, nước, internet/cap</a>
+                                                    <a href="vay-theo-hoa-don-tien-dien.php">Vay tiêu dùng theo hoá đơn điện, nước, internet/cap</a>
                                                 </h2>
                                                 <span class="posted-date">14 Tháng Năm, 2019</span>
                                             </div>

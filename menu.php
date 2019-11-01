@@ -4,16 +4,16 @@
                     <div class="top-header-content">
                         <div class="top-info-left left">
                             <div class="recent-stories-holder">
-                                <span>Liên hệ: 0763633331</span>
+                                <span>Liên hệ: <?php echo " $sdt_display";?></span>
                                 <ul id="recent-news">
                                     <li>
-                                        <a href="vay-theo-bao-hiem-y-te.html">KHOẢN VAY LÊN ĐẾN 100 TRIỆU</a>
+                                        <a href="vay-theo-bao-hiem-y-te.php">KHOẢN VAY LÊN ĐẾN 100 TRIỆU</a>
                                     </li>
                                     <li>
-                                        <a href="vay-theo-hoa-don-tien-dien.html">THỦ TỤC ĐƠN GIẢN</a>
+                                        <a href="vay-theo-hoa-don-tien-dien.php">THỦ TỤC ĐƠN GIẢN</a>
                                     </li>
                                     <li>
-                                        <a href="vay-theo-bao-hiem-nhan-tho.html">LÃI SUẤT THẤP DUYỆT HỒ SƠ NHANH</a>
+                                        <a href="vay-theo-bao-hiem-nhan-tho.php">LÃI SUẤT THẤP DUYỆT HỒ SƠ NHANH</a>
                                     </li>
                                 </ul>
                             </div>
@@ -48,8 +48,14 @@
                                         <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-46">
                                             <a href="index.php">Trang chủ</a>
                                         </li>
+										<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43">
+                                            <a href="vay-tin-chap-theo-luong-chuyen-khoan.php">Vay tín chấp</a>
+                                        </li>
+										<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43">
+                                            <a href="vay-tieu-dung-tin-chap-theo-luong-tien-mat.php">Vay tiêu dùng</a>
+                                        </li>
                                         <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43">
-                                            <a href="lien-he.php">Liên hệ</a>
+                                            <a href="lienhe.php">Liên hệ <?php echo " $sdt_display";?></a>
                                         </li>
                                     </ul>
                                 </div>

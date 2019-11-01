@@ -1,3 +1,13 @@
+<?php
+$to      = 'thanhbao0390@gmail.com';
+$subject = 'sample test';
+$message = 'hello';
+$headers = 'From: thanhbao0390@gmail.com' . "\r\n" .
+    'Reply-To: thanhbao0390@gmail.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+
+mail($to, $subject, $message, $headers);
+?>
 <!DOCTYPE html>
 <html lang="vi">
 <?php include 'var.php';?>
@@ -7,16 +17,13 @@
     <div id="page" class="site">
         <?php include 'menu.php';?>
         <div id="content" class="site-content">
-            <?php include 'slider.php';?>
             <div class="container">
                 <div class="inner-wrapper">
                     <div id="primary" class="content-area">
                         <main id="main" class="site-main" role="main">
-                            <?php include 'vaytieudungtinchap-body.php';?>
-                            <?php include 'sanpham.php';?>
+                            <?php include 'submit-body.php';?>
                         </main>
                     </div>
-                    <?php include 'dangky-right.php';?>
                 </div>
             </div>
         </div>

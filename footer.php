@@ -25,7 +25,7 @@
                             <h2 class="widget-title">LIÊN HỆ</h2>
                             <div class="textwidget custom-html-widget">
                                 <li>Hotline tư vấn: </li>
-                                <li> 0763 633 331 Mrs. Bình </li>
+                                <li> <?php echo " $sdt_display";?> <?php echo " $name";?> </li>
                             </div>
                         </aside>
                     </div>
